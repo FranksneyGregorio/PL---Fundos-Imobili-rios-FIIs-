@@ -1,7 +1,7 @@
 ## PL-Fundos-Imobili-rios-FIIs
 Este projeto consiste em uma planilha Excel desenvolvida para simular investimentos em Fundos Imobiliários (FIIs). Permite ao usuário inserir valores de aporte inicial, aportes mensais, taxa de rendimento e tempo de investimento, retornando o patrimônio acumulado, rendimentos mensais e dividendos.
 
-##Funcionalidades
+## Funcionalidades
 - Simulação de investimentos mensais
 - Cálculo automático de rendimentos e dividendos
 - Projeção de patrimônio acumulado
@@ -13,7 +13,8 @@ Este projeto consiste em uma planilha Excel desenvolvida para simular investimen
 - Gráficos dinâmicos
 
 ## 📷 Capturas de Tela
-Imagens disponíveis na pasta `/images` para ilustrar a planilha e seus resultados.
+<img width="819" height="1122" alt="image" src="https://github.com/user-attachments/assets/bb428bb8-e010-4617-b7e7-c91c837cdad8" />
+
 
 ## 🚀 Como Usar
 1. Baixe o arquivo Excel.
@@ -28,4 +29,4 @@ Imagens disponíveis na pasta `/images` para ilustrar a planilha e seus resultad
 - Cálculo de juros compostos
 - Cálculo de dividendos mensais
 - Automatização de simulações financeiras no Excel
-- Publicação de projetos no GitHub com documentação clara
+
